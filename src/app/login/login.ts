@@ -34,7 +34,7 @@ export class Login {
     const password = this.loginForm.value.password;
 
     if (
-      email === 'admin@gmail.com' &&
+      email === 'usuario@gmail.com' &&
       password === '123456'
     ) {
       this.mensaje = ' Inicio de sesión correcto';
