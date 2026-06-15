@@ -7,13 +7,13 @@
   
   /* Variables */
   :root {
-    --primary: #2563eb;
+    --primary: #3063d2;
     --primary-hover: #1d4ed8;
-    --secondary: #64748b;
+    --secondary: #758090;
     --success: #22c55e;
     --danger: #ef4444;
   
-    --background: #f8fafc;
+    --background: #dbe3ec;
     --surface: #ffffff;
   
     --text-primary: #1e293b;
