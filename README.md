@@ -16,6 +16,7 @@ Este proyecto fue desarrollado como parte de la práctica integradora de la asig
 * Utilizar ramas para el desarrollo de nuevas funcionalidades y corrección de errores.
 * Implementar Pull Requests para la integración segura de cambios.
 
+
 ---
 
 ## Tecnologías Utilizadas
